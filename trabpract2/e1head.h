@@ -6,7 +6,7 @@ struct dat{
 
 	char nom[25];
 	char cuil[20];
-    char categoria[2];
+	char categoria[2];
 	struct datos *sgt;
 };
 
