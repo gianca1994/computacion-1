@@ -1,0 +1,5 @@
+[
+{“nombre”: “Lucas Sebastián Mendez”, “cuit”: 203194564563, “categoria”: “B”},
+{“nombre”: “Alex Quiroga”, “cuit”: 20304958653, “categoria”: “D”},
+{“nombre”: “Licia Valdez”, “cuit”: 27342012348, “categoria”: “G”}
+]
